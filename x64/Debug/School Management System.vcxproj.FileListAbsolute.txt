@@ -1,0 +1,3 @@
+C:\Users\Edward Ofosu Mensah\source\repos\School Management System\School Management System\x64\Debug\School Management System.vcxproj.AssemblyReference.cache
+C:\Users\Edward Ofosu Mensah\source\repos\School Management System\School Management System\x64\Debug\SchoolManagementSystem.MyForm.resources
+C:\Users\Edward Ofosu Mensah\source\repos\School Management System\School Management System\x64\Debug\School Management System.vcxproj.GenerateResource.cache
